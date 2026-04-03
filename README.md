@@ -16,8 +16,8 @@ Urban Resilience Intelligence Engine project using Streamlit.
 - Streamlit
 
 ## ▶️ How to Run
-1. Clone the repository
-2. Install dependencies:
-   pip install -r requirements.txt
-3. Run the app:
-   streamlit run app.py
+1. Clone the repository  
+2. Install dependencies:  
+   pip install -r requirements.txt  
+3. Run the app:  
+   streamlit run app.py 
