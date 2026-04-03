@@ -1,2 +1,1 @@
-# URIE
-Urban Resilience Intelligence Engine (URIE) – Streamlit Project
+# Urban-Resilience-Intelligence-Engine-U.R.I.E.-
